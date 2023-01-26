@@ -1,0 +1,43 @@
+header {
+  font-size: 3rem;
+  font-style: italic;
+  font-weight: 900;
+  background-color: rgba(0, 0, 0, 0.9);
+  height: 5rem;
+  color: white;
+  opacity: 85%;
+  text-align: center;
+  align-items: center;
+}
+
+body {
+  background-color: aquamarine;
+}
+i {
+  float: right;
+  cursor: pointer;
+}
+i:hover {
+  color: red;
+}
+h1 {
+  float: left;
+}
+i p {
+  margin-top: 10px;
+  font-size: 10px;
+}
+p {
+  color: white;
+}
+.card-text {
+  color: black;
+}
+#tota {
+  color: red;
+}
+#sat {
+  color: blue;
+  text-align: center;
+  align-items: center;
+}
